@@ -3,11 +3,11 @@ clear all
 close all
 clc
 
-% This is a simulation code for T-S fuzzy model-based quadrotor tracking control
+% [1] Author : Sounghwan Hwang 
+% [2] Objective : This is a simulation code for T-S fuzzy model-based quadrotor tracking control
+% [3] Date : August 20, 2025
 
 addpath("LMIs/")
-
-% This is an example
 
 cnt1                =        1;
 cnt2                =        1;
