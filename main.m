@@ -7,6 +7,8 @@ clc
 
 addpath("LMIs/")
 
+% This is an example
+
 cnt1                =        1;
 cnt2                =        1;
 
