@@ -6,6 +6,7 @@ clc
 % [1] Author : Sounghwan Hwang 
 % [2] Objective : This is a simulation code for T-S fuzzy model-based quadrotor tracking control
 % [3] Date : August 20, 2025
+% [4] Target Conference : Scitech 2026
 
 addpath("LMIs/")
 
