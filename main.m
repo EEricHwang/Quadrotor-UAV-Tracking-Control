@@ -7,6 +7,7 @@ clc
 % [2] Objective : This is a simulation code for T-S fuzzy model-based quadrotor tracking control
 % [3] Date : August 20, 2025
 % [4] Target Conference : Scitech 2026
+% [5] Deadline : December 2, 2025
 
 addpath("LMIs/")
 
